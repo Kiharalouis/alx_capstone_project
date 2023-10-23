@@ -2,44 +2,65 @@
 
 ## Project Overview
 
-This repository contains the code for my ALX Capstone project, where I have built a portfolio website to showcase the skills I have learned in HTML, CSS, JavaScript, and Python. The purpose of this project is to demonstrate my proficiency in these technologies and showcase my abilities to potential employers and clients.
+Welcome to my ALX Capstone project! In this repository, I have developed a dynamic portfolio website to showcase the skills I've acquired in HTML, CSS, Python, Flask, MySQL, JavaScript, API integration, and Git version control. This project serves as a comprehensive demonstration of my proficiency in these technologies, highlighting my ability to create responsive web applications, work with databases, handle server-side scripting, integrate APIs, and collaborate using Git.
 
 ## Project Features
 
-- **Responsive Design:** The portfolio website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
+- **Responsive Design:** The portfolio website is designed to be fully responsive, ensuring optimal user experience across a variety of devices and screen sizes.
 
-- **HTML:** The structure of the website is created using HTML, ensuring accessibility and proper organization of content.
+- **Frontend Technologies:**
+  - **HTML & CSS:** The website's structure and visual presentation are created using HTML and CSS, ensuring accessibility and a visually appealing user interface.
+  - **JavaScript:** Interactive elements and dynamic content are implemented using JavaScript, enhancing user engagement and interactivity.
 
-- **CSS:** CSS styles are applied to enhance the visual appeal of the website, including layout, typography, and color schemes.
+- **Backend Technologies:**
+  - **Python & Flask:** Server-side scripting is handled using Python and Flask, allowing for dynamic content generation and interaction with the MySQL database.
+  - **MySQL:** The portfolio website utilizes a MySQL database to store and manage data efficiently.
+  - **API Integration:** External APIs are integrated to showcase real-time data or enhance specific features of the portfolio.
 
-- **JavaScript:** Interactive elements and dynamic content are implemented using JavaScript, adding interactivity and engaging user experience.
-
-- **Python:** Backend functionalities, such as form submissions or data processing, are handled using Python, providing a seamless experience for users.
+- **Version Control:**
+  - **Git:** The project is version-controlled using Git, enabling collaboration, tracking changes, and ensuring codebase integrity.
 
 ## Technologies Used
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Python**
+- **Frontend:**
+  - **HTML**
+  - **CSS**
+  - **JavaScript**
+
+- **Backend:**
+  - **Python**
+  - **Flask**
+  - **MySQL**
+  - **API Integration**
+
+- **Version Control:**
+  - **Git**
 
 ## Project Structure
 
-- **`index.html`:** Main HTML file containing the structure of the portfolio website.
+- **`app.py`:** Flask application file containing server-side logic and API endpoints.
   
-- **`styles.css`:** CSS file containing styles for the website layout, typography, and design elements.
+- **`templates/`:** Directory containing HTML templates for different pages of the website.
   
-- **`script.js`:** JavaScript file containing interactive elements and dynamic content.
-  
-- **`backend.py`:** Python file handling backend functionalities, such as form submissions or data processing.
-  
-- **`assets/`:** Directory containing images, icons, or any other assets used in the project.
+- **`static/`:** Directory containing CSS styles, JavaScript files, and other static assets.
+
+- **`database/`:** Directory containing SQL scripts and database-related files.
+
+- **`config.py`:** Configuration file for storing sensitive information or API keys (Please ensure not to expose this file publicly).
 
 ## How to Run the Project
 
 1. Clone this repository to your local machine using `git clone <repository-url>`.
 
-2. Open `index.html` in your web browser to view the portfolio website.
+2. Set up a virtual environment (recommended) and install the required dependencies using `pip install -r requirements.txt`.
+
+3. Configure the MySQL database by executing the SQL scripts in the `database/` directory.
+
+4. Update the `config.py` file with the necessary database credentials and API keys.
+
+5. Run the Flask application using `python app.py`.
+
+6. Access the portfolio website in your web browser at `http://localhost:5000`.
 
 ## Contributing
 
@@ -47,6 +68,6 @@ If you have suggestions, enhancements, or bug fixes, feel free to open an issue 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you can use, modify, and distribute the code for personal or commercial projects.
+This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code for personal or commercial projects.
 
 ---
