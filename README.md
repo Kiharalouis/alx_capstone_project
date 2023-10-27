@@ -62,6 +62,10 @@ Welcome to my ALX Capstone project! In this repository, I have developed a dynam
 
 6. Access the portfolio website in your web browser at `https://kiharalouis.github.io/alx_capstone_project/#`.
 
+7. Access the prototype in your browser at `https://drive.google.com/file/d/18WKXukurXHwihArdn9N_G3libJojmnCi/view?usp=sharing`.
+
+8. Demo Video `https://www.youtube.com/watch?v=rHI-KRLu19w`.
+
 ## Contributing
 
 If you have suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request. Your contributions are highly welcome and appreciated!
