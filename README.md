@@ -60,11 +60,11 @@ Welcome to my ALX Capstone project! In this repository, I have developed a dynam
 
 5. Run the Flask application using `python app.py`.
 
-6. Access the portfolio website in your web browser at `https://kiharalouis.github.io/alx_capstone_project/#`.
+6. Access the portfolio website in your web browser at https://kiharalouis.github.io/alx_capstone_project/#
 
-7. Access the prototype in your browser at `https://drive.google.com/file/d/18WKXukurXHwihArdn9N_G3libJojmnCi/view?usp=sharing`.
+7. Access the prototype in your browser at https://drive.google.com/file/d/18WKXukurXHwihArdn9N_G3libJojmnCi/view?usp=sharing
 
-8. Demo Video `https://www.youtube.com/watch?v=rHI-KRLu19w`.
+8. Demo Video https://www.youtube.com/watch?v=rHI-KRLu19w
 
 ## Contributing
 
